@@ -1,0 +1,6 @@
+.open.reviews td.summary .author.avatar.image {
+  filter: none;
+  width: 2em;
+  height: 2em;
+}
+
